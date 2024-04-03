@@ -71,7 +71,8 @@ start_server()
 
 *SERVER*
 
-![Uploading Screenshot 2024-04-03 104648.png…]()
+![Screenshot 2024-04-03 104648](https://github.com/Bakkiyalakshmiethiraj/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870983/db96385f-10a0-4487-ba61-d7db8744f006)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
